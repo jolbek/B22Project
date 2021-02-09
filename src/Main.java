@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello Bitches!!");
 
         System.out.println("type from inelj");
+        System.out.println("how about now ");
     }
 }
